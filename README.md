@@ -19,7 +19,7 @@
   - Checking the windowing effect
   - Short-term Fourier transform
  
-- **Stochastic process**:
+- **Random process**:
   - Random variable/mathematical expectation
   - Binomial random variable/random vector
   - Estimation of a random variable without observation/estimation of a random variable with observation of another random variable
@@ -31,3 +31,15 @@
   - Power spectrum density
   - Whitening process
   - Linear process
+- **BioSignal**:
+  - Types of Bio signals in terms of origin
+  - Types of Bio signals from the point of view of the producing organ:
+      - Biosignals related to the brain
+      - Biosignals related to the heart
+      - Biosignals related to muscles
+      - Biosignals related to the stomach
+      - Biosignals related to the eye
+      - Biosignals related to the respiratory system
+      - Biosignals related to joints
+  - A reference to the processing of brain signals
+  - Reference to cardiac signal processing
