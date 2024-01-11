@@ -8,7 +8,7 @@
 
 
 ### This course contains the following topics:
-- **An introduction to deterministic signals and signal processing**:
+- **BSP_01_2_M1: An introduction to deterministic signals and signal processing**:
   - Definition of signal and its types
   - The Purpose of signal processing
   - Definition of energy, power, internal multiplication and correlation for deterministic signals
@@ -19,7 +19,7 @@
   - Checking the windowing effect
   - Short-term Fourier transform
  
-- **Random process**:
+- **BSP_01_2_M2: Random process**:
   - Random variable/mathematical expectation
   - Binomial random variable/random vector
   - Estimation of a random variable without observation/estimation of a random variable with observation of another random variable
@@ -32,7 +32,7 @@
   - Whitening process
   - Linear process
     
-- **BioSignal**:
+- **BSP_01_2_M3: BioSignal**:
   - Types of Bio signals in terms of origin
   - Types of Bio signals from the point of view of the producing organ:
       - Biosignals related to the brain
@@ -45,7 +45,7 @@
   - A reference to the processing of brain signals
   - Reference to cardiac signal processing
  
-- **Estimation of statistical parameters of the process**:
+- **BSP_01_2_M4: Estimation of statistical parameters of the process**:
   - Estimation of statistical parameters of a continuous process
     - Average estimate
     - Variance estimation
@@ -56,7 +56,7 @@
     - Correlation function estimation
   - Synchronous averaging
  
-- **Time Series and Parametric Models**:
+- **BSP_01_2_M5: Time Series and Parametric Models**:
  - Linear process
  - AR(p) model
     - Calculation of model parameters/estimation of model parameters
@@ -68,7 +68,7 @@
  - Other models (linear/non-linear)
  - Signal segmentation
 
-- **Spectural Estimation**:
+- **BSP_01_2_M6: Spectural Estimation**:
  - General estimation methods
  - Non-parametric methods
    - based on correlation estimation and its Fourier transform (BT (Tukey-Blackman) method)
@@ -77,7 +77,7 @@
  - Methods based on ARMA, MA, AR models
  - Some special methods (Capon, PHD, Prony)
 
-- **Estimation and Adaptive Filter**:
+- **BSP_01_2_M7: Estimation and Adaptive Filter**:
  - Estimating a random vector by observing another vector
    - The most probable estimation/least error estimation/maximum likelihood estimation/linear estimation/affine estimation
  - Linear estimation of one process in terms of observations of another process
@@ -88,9 +88,9 @@
  - Adaptive filter in the area of noise estimation and removal
  - LMS Algorithm
 
-- **Kalman Filter**
+- **BSP_01_2_M8: Kalman Filter**
 
-- **Classification**:
+- **BSP_01_2_M9: Classification**:
   - Bayes statistical classification
   - Bayes statistical classification considering different risk for error
   - Bayes statistical classification assuming Gaussian distribution of features
@@ -98,7 +98,7 @@
   - Dimension feature reduction
   - Assessment of classification performance
 
-- **Cepstrum Analysis**:
+- **BSP_01_2_M10: Cepstrum Analysis**:
   - Definition of mixed capstrom and real capstrom
   - Mixed capstrom of signals with rational fraction z-transform
   - Mixed Capstrum properties
