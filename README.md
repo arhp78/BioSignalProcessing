@@ -1,5 +1,5 @@
 # BioSignalProcessing
-## This repository includes all the assignments, the slides, and the final project of the BioSignal Processing graduate course.
+## This repository includes all the practical assignments and the slides of the BioSignal Processing graduate course.
 
 
 - [HW1](https://github.com/arhp78/BioSignalProcessing/tree/main/HW1_Prac): Basic concept of Signal Processing, Window filtering, Fourier Transform, Correlation, P300 extraction
