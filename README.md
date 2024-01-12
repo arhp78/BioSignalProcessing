@@ -57,36 +57,36 @@
   - Synchronous averaging
  
 - **BSP_01_2_M5: Time Series and Parametric Models**:
- - Linear process
- - AR(p) model
-    - Calculation of model parameters/estimation of model parameters
- - MA(q) model
-    - Calculation of model parameters/estimation of model parameters
- - ARMA(p,q) model
- - Calculation of model parameters/estimation of model parameters
- - Estimation of the order of the model
- - Other models (linear/non-linear)
- - Signal segmentation
+   - Linear process
+   - AR(p) model
+      - Calculation of model parameters/estimation of model parameters
+   - MA(q) model
+      - Calculation of model parameters/estimation of model parameters
+   - ARMA(p,q) model
+   - Calculation of model parameters/estimation of model parameters
+   - Estimation of the order of the model
+   - Other models (linear/non-linear)
+   - Signal segmentation
 
 - **BSP_01_2_M6: Spectural Estimation**:
- - General estimation methods
- - Non-parametric methods
-   - based on correlation estimation and its Fourier transform (BT (Tukey-Blackman) method)
-   - based on the direct Fourier transformation of the sample function (Periodogram method) and its improvement (Welch)
- - Parametric methods
- - Methods based on ARMA, MA, AR models
- - Some special methods (Capon, PHD, Prony)
+   - General estimation methods
+   - Non-parametric methods
+       - based on correlation estimation and its Fourier transform (BT (Tukey-Blackman) method)
+       - based on the direct Fourier transformation of the sample function (Periodogram method) and its improvement (Welch)
+   - Parametric methods
+   - Methods based on ARMA, MA, AR models
+   - Some special methods (Capon, PHD, Prony)
 
 - **BSP_01_2_M7: Estimation and Adaptive Filter**:
- - Estimating a random vector by observing another vector
-   - The most probable estimation/least error estimation/maximum likelihood estimation/linear estimation/affine estimation
- - Linear estimation of one process in terms of observations of another process
-   - Non-causal IIR Wiener filter (smoothing)
-   - Causal IIR Wiener filter (filtering)
-   - Causal FIR Wiener filter
- - Fixed FIR Wiener filter problems
- - Adaptive filter in the area of noise estimation and removal
- - LMS Algorithm
+   - Estimating a random vector by observing another vector
+     - The most probable estimation/least error estimation/maximum likelihood estimation/linear estimation/affine estimation
+   - Linear estimation of one process in terms of observations of another process
+     - Non-causal IIR Wiener filter (smoothing)
+     - Causal IIR Wiener filter (filtering)
+     - Causal FIR Wiener filter
+   - Fixed FIR Wiener filter problems
+   - Adaptive filter in the area of noise estimation and removal
+   - LMS Algorithm
 
 - **BSP_01_2_M8: Kalman Filter**
 
